@@ -1,0 +1,9 @@
+PASS method_2x2         exact=7, MMAS=7
+PASS single_job         exact=9, MMAS=9
+PASS single_machine     exact=9, MMAS=9
+PASS parallel_jobs      exact=5, MMAS=5
+PASS return_machine     exact=7, MMAS=7
+PASS bottleneck         exact=21, MMAS=21
+PASS ties_3x3           exact=6, MMAS=6
+PASS zero_duration      exact=4, MMAS=4
+PASS: 6994 перевірок інваріантів, 9 перевірок відхилення помилок; усі 82 записи OR-Library прочитані.

@@ -1,0 +1,16 @@
+{
+  "algorithm": "MMAS best-so-far / conflict set / SPT heuristic",
+  "seed": 42,
+  "iterations": 200,
+  "tuningInstances": [
+    "la02",
+    "ft10"
+  ],
+  "runsPerConfiguration": 1,
+  "runtime": ".NET 9.0.10",
+  "os": "Microsoft Windows 10.0.26200",
+  "logicalProcessors": 16,
+  "source": "https://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/jobshop1.txt",
+  "sha256": "7F36D103332F94CFDEB76358E40927A57CFA7A426EBEAABD4DE666350C69F028",
+  "timestamp": "2026-11-08T15:42:29.0293529+00:00"
+}

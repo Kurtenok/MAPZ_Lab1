@@ -1,0 +1,4 @@
+﻿operation;job;index;machine;start;end;duration
+J1.O1;1;1;1;0;3;3
+J1.O2;1;2;2;3;5;2
+J1.O3;1;3;3;5;9;4

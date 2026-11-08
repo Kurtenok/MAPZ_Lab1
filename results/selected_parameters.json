@@ -1,0 +1,14 @@
+{
+  "configuration": "beta0",
+  "meanGap": 9.482475580727243,
+  "parameters": {
+    "ants": 30,
+    "iterations": 200,
+    "alpha": 1,
+    "beta": 0,
+    "rho": 0.05,
+    "minRatio": 0.05,
+    "restartAfter": 40,
+    "seed": 42
+  }
+}
